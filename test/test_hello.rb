@@ -1,5 +1,5 @@
 require 'test/unit'
-require './hello.rb'
+require '../src/hello.rb'
 
 class TC_Hello1 < Test::Unit::TestCase
 
